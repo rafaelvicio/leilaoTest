@@ -1,0 +1,28 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "NumberGenerator",
+                "projectName": "NumberGenerator",
+                "workingDirectory": "/home/rafaelvicio/dev/NumberGenerator",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "NumberGenerator",
+                "projectName": "NumberGenerator",
+                "workingDirectory": "/home/rafaelvicio/dev/NumberGenerator",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
